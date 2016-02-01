@@ -1,7 +1,7 @@
 name: Main Performance PC - TV
 favicon: null
-layout_spectrum: 0.46773320995271206
-typography_spectrum: 0.8223298776429147
+layout_spectrum: 0.80969
+typography_spectrum: 0.608
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.505470780422911
-  lightness: 0.5482182060368359
-  saturation: 0.7243103415239602
-  rhythmicContrast: 0.3634886995423585
+    - '#ffffff'
+    - '#1e1e1e'
+    - '#0061ec'
+    - '#929292'
+    - '#5d5d5d'
+  brandStrength: 0.625
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
