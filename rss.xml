@@ -4,7 +4,7 @@
         <description><![CDATA[The Official Source for Information & Tech Content from MPPC]]></description>
         <link>http://www.mainperformancepc.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 06:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 06:53:47 GMT</lastBuildDate>
         <atom:link href="http://www.mainperformancepc.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.mainperformancepc.tv/c6bbbf2b-7c2d-4fb4-9c76-fea8d3f54de4/index.html</link>
             <guid isPermaLink="false">c6bbbf2b-7c2d-4fb4-9c76-fea8d3f54de4</guid>
             <pubDate>Tue, 02 Feb 2016 06:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A lil hang time.]]></title>
-            <description><![CDATA[<article><h1>A lil hang time.</h1><p>Yeah buddy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/418a5166048dcb5e8df560fb51da5ed64b058707.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=LNFZKu4uTq4</link>
-            <guid isPermaLink="false">829b23bf-fa61-47a9-ad46-0cb6566f614d</guid>
-            <pubDate>Tue, 02 Feb 2016 06:49:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
