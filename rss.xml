@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Official Source for Information & Tech Content from MPPC]]></title>
         <description><![CDATA[The Official Source for Information & Tech Content from MPPC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.mainperformancepc.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 07:00:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 07:10:35 GMT</lastBuildDate>
+        <atom:link href="http://www.mainperformancepc.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The seasons end and Half Life 3 confirmed....]]></title>
+            <description><![CDATA[<article><h1>The seasons end and Half Life 3 confirmed....</h1><p>This is always kind of a depressing time of the year for me because winter is literally only weeks away and all the real world racing series are finishing up their seasons. I am excited though to be heading to Homestead on Friday to celebrate our NASCAR Peak Antifreeze Series champion Kenny Humpe and get to watch what is really the only race left in the season.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16294ccd198df5d06d4ff42bb1261621bda8b848.jpg"></article>]]></description>
+            <link>http://www.iracing.com/the-seasons-end-and-half-life-3-confirmed/</link>
+            <guid isPermaLink="false">88bb50fd-5743-476c-a426-53c8921a7fa6</guid>
+            <pubDate>Tue, 02 Feb 2016 07:10:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5633dd60-cc24-4c9a-9ec2-3085d203b9e6.jpg">]]></description>
-            <link>undefined1b5df95e-2dbf-446c-ab77-3ecedab6e484/index.html</link>
+            <link>http://www.mainperformancepc.tv/1b5df95e-2dbf-446c-ab77-3ecedab6e484/index.html</link>
             <guid isPermaLink="false">1b5df95e-2dbf-446c-ab77-3ecedab6e484</guid>
             <pubDate>Tue, 02 Feb 2016 07:00:52 GMT</pubDate>
         </item>
